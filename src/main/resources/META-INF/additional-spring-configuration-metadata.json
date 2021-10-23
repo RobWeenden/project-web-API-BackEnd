@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.datasource.hiraki.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hiraki.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.hiraki.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hiraki.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.hiraki.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hiraki.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.hiraki.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hiraki.minimum-idle'"
+  },
+  {
+    "name": "apiconfig.origin",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.origin'"
+  },
+  {
+    "name": "apiconfig.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.jwtSecret'"
+  },
+  {
+    "name": "apiconfig.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.jwtSecret'"
+  },
+  {
+    "name": "apiconfig.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.jwt-secret'"
+  },
+  {
+    "name": "apiconfig.secret-email",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.secret-email'"
+  },
+  {
+    "name": "apiconfig.secret-password",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.secret-password'"
+  },
+  {
+    "name": "apiconfig.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'apiconfig.secret'"
+  }
+]}
